@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+"Theres a will, theres a way."
+
 <!--
 **biandishilaji/biandishilaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
