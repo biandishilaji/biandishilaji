@@ -2,6 +2,10 @@
 
 "Theres a will, theres a way."
 
+Se esforce mais do que todos. Trabalhe mais do que todos. Sempre há alguém que fez antes e melhor do que você.
+
+
+
 <!--
 **biandishilaji/biandishilaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
