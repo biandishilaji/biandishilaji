@@ -1,5 +1,5 @@
 
-<img src="https://app.simplifiqueii.com.br/static/brand/simplifiqueii.com.br/img/logo-navbar.png">
+<img align="left" height="20" src="https://app.simplifiqueii.com.br/static/brand/simplifiqueii.com.br/img/logo-navbar.png">
 
 **Languages and tools:**
 
