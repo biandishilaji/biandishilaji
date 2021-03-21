@@ -31,7 +31,7 @@
     
       
 </h4>
-
+**VUE_APP_WS_HOST** = IP do servidor PHP que executa o websockets. Localmente, caso esteja utilizando a docker, basta executar "docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' `container_php`" e pegar o output, exemplo: `172.18.0.3`
 
 <h6>
     "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
